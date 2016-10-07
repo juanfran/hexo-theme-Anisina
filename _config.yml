@@ -4,15 +4,14 @@
 
 # Site
 title: Haojen # your blog title name
-subtitle:  
+subtitle:
 author: Haojen Ma # 作者
-language: 
-timezone: 
+language:
+timezone:
 
 # custom Site settings
 # more detail check out docs
 SEOTitle: Haojen's blog 
-header-img: //o7bkkhiex.bkt.clouddn.com/lion-blur-bg.jpg
 email: HaojenMa@gmail.com
 description: "马浩珍在 Github 上的个人博客"
 keyword: # seo key words
@@ -33,15 +32,15 @@ weibo_username: haojen
 zhihu_username: megahertz
 github_username: haojen
 twitter_username: ehazon
-facebook_username:  
-linkedin_username:  
+facebook_username:
+linkedin_username:
 
 # Build settings
 anchorjs: false                        # if you want to customize anchor. check out line:181 of `post.html`
 
 
-# Disqus settings 
-disqus_username: 
+# Disqus settings
+disqus_username:
 
 # Duoshuo settings
 duoshuo_username:  # 你的多说帐号
@@ -129,9 +128,9 @@ theme: Anisina
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
-  type: 
-  repo: 
-  branch: 
+  type:
+  repo:
+  branch:
 
 
 # img CDN path
@@ -148,10 +147,10 @@ post-default-img: #博文默认的图片
 post-default-img-mobile: #移动端显示的图片
 
 # search api , set your custom key
-swiftype_key: 
+swiftype_key:
 
 
-# archive page title 
+# archive page title
 archive:
     title: archives
     description: 可以根据归档日期检索所有文件
